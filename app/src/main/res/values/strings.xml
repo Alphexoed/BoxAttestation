@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Box Attestation</string>
+    <string name="cert_select_file">Select XML File</string>
+    <string name="cert_no_file">Nothing selected…</string>
+    <string name="certs_ec_title">ECC Certificates</string>
+    <string name="certs_rsa_title">RSA Certificates</string>
+    <string name="cert_subject">Subject</string>
+    <string name="cert_issuer">Issuer</string>
+    <string name="cert_sn">Serial Number</string>
+    <string name="cert_usage">Key Usage</string>
+    <string name="cert_valid_start">Valid From</string>
+    <string name="cert_valid_end">Valid Until</string>
+</resources>
